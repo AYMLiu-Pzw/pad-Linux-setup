@@ -29,7 +29,7 @@
 
 ## 平板还能做什么
 
-装好环境只是开始。SSH、Web 服务器、本地 AI、自动化运维……
+装好环境只是开始。SSH、Web 服务器、本地 AI、自动化运维等……
 见 [docs/03-平板还能做什么.md](docs/03-平板还能做什么.md)
 
 ## 环境说明
@@ -41,3 +41,18 @@
 ## 许可
 
 MIT License
+
+## 致谢
+
+本教程基于以下开源项目：
+
+| 项目 | 说明 |
+|------|------|
+| [Termux](https://github.com/termux/termux-app) | Linux 终端模拟器 |
+| [proot-distro](https://github.com/termux/proot-distro) | 发行版安装工具 |
+| [code-server](https://github.com/coder/code-server) | VS Code 网页版 |
+| [F-Droid](https://f-droid.org) | 开源应用商店 |
+| [Ollama](https://github.com/ollama/ollama) | 本地大模型 |
+| [Ansible](https://github.com/ansible/ansible) | 运维自动化工具 |
+
+感谢这些项目的作者，没有它们就没有本教程。
