@@ -1,4 +1,4 @@
-# pad-linux-setup
+# Android-Linux-Tutorial
 
 用平板（Android）设备，免 root 搭建 Linux 开发环境及本地部署Python
 
